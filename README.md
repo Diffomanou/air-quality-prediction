@@ -41,10 +41,13 @@ Toutes les valeurs sont en **µg/m³** sauf CO (mg/m³).
 ---
 
 ## Comment utiliser
-1. Cloner le repo :  
+1. Cloner le repo et Installer les dépendances Python listées dans requirements.txt :
+
+ 
 ```bash
 git clone https://github.com/Diffomanou/air-quality-prediction.git
 
-2. Installer les dépendances Python listées dans requirements.txt :
-```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+
+
+
